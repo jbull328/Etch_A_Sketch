@@ -1,0 +1,68 @@
+.container {
+	
+	height: 577px;
+	width: 579px;
+	background-color: #9394a7;
+	margin: 60px auto;
+	overflow: hidden;
+	boarder-collapse: collapse;
+	border-spacing: 0;
+
+}
+
+.box {
+	display: table-cell;
+	vertical-align: middle;
+	height: 2em;
+	width: 2em;
+	background-color: #A4ccd6;
+	display: block;
+	float: left;
+	border: 2px solid #2BCCBD;
+	margin: auto;
+	padding: 0;
+}
+
+body {
+
+	background-color:  #6d9995;
+
+}
+
+#topBar {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #f4f4f4;
+	text-align: center;
+	font-size: 25px;
+	font-family: Lucida Console;
+}
+
+#topBar li {
+
+	float: left;
+	width: 60px;
+	list-style-type: none;
+	margin: 20px 45px 10px 50px;
+
+
+}
+
+button {
+
+	display: block;
+	font-weight: bold;
+	border-radius: 5px;
+	padding: 10px, 15px;
+	margin-left: 34%;
+	background-color: #a8a8a8;
+	font-size: 16px; 
+	color: #f4f4f4;
+}
+#foot {
+
+	color: #f4f4f4;
+	float: right;
+	padding-right: 100px;
+}
