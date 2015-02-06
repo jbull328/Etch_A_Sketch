@@ -12,3 +12,7 @@ Close to completion, Grid works as a sketch pad and Reset button works, Still to
 It was fun to struggle through some of the coding and I was surprised how well I did, from meagre beginnings.
 
 Jbull 2/4/2015
+
+Preview Link
+http://htmlpreview.github.io/?https://github.com/jbull328/Etch_A_Sketch/blob/master/index.html
+Jbull 2/5/2015
